@@ -1,0 +1,22 @@
+# Shared project rules: Claude, Grok and ChatGPT
+
+Read [README.md](README.md) first. This repository preserves a deployed static snapshot with compiled assets; it is not a verified editable application source tree. Locate the native source and accepted owner before proposing application changes. Use the existing project task/issue or accepted bounded work request; this file creates no second tracker. Source documentation changes do not publish a site or prove a customer journey. Verify the affected route and its entry-to-exit journey before claiming product completion.
+
+## Safety and scope
+
+Keep existing project and model-specific rules. GitHub is git sync: do not enable paid GitHub Actions, add workflows, provision cloud services, change hosting/security/credentials, or deploy without the applicable explicit authority. This process change authorizes none of those actions. Use affected static route/asset/link smoke checks and changed-file review; do not invent a framework build for this compiled snapshot. Form submission and live production actions require their own authority.
+
+## Shared execution contract (all agents)
+
+These rules apply to Claude, Grok and ChatGPT/Codex. Keep existing project safety, scientific, financial, spending, required-check and recovery constraints. This contract grants no production, financial, credential or security-setting authority.
+
+- Use the existing canonical task/issue/ledger. First refresh the base/branch/status, other owners, open work and worktrees; isolate disjoint edits. Accept one bounded S/M child before starting: outcome, exact files, prerequisites, exit, checks, different reviewer and next checkpoint. Queued or unavailable names are not active owners; shared files have one writer. Reconcile a stalled claim before reassigning the same child; do not launch overlapping replacements or repeat an uncertain external action blindly.
+- Plan changes update canonical dispatch inputs/status/dependencies and affected concise prose together; regenerate existing derived views. Preserve stable IDs. Where structured planning exists, reject duplicate IDs, dangling prerequisites and cycles; explicit priorities/holds must reach real dispatch, not just prose. Reconcile stale prose HOLDs with newer accepted decisions without relaxing enduring constraints. Keep build, split, release-handoff and live-verification actions distinct.
+- Find and extend the native schema/service/entry points and existing research first. Cover the full journey, including denied, repeated/interrupted and failed paths. Do not add a competing engine or silently reduce approved scope.
+- Audit claims need their source/date/ref, current-path check, evidence level and disposition. Historical counts, defaults, initial values and grep misses are not live proof. Keep unknowns explicit.
+- Run affected tests/builds and existing required gates on the final combined tree; state passed, failed, not-run or blocked plainly. A focused pass is not a full pass. A different reviewer accepts the final head and affected journey; later changes require appropriate delta review. Recheck source/destination heads before publication; changed heads or unexplained deletions block affected acceptance. No extra mandatory human round or expensive global gate.
+- Use one short PR block: outcome/scope, native task/journey, checks actually run and limits, migrations/dependencies/flags and next owner (say none where applicable). Existing PR/CI/release links are the record; no new receipt subsystem or raw evidence files.
+- Source fixed, reviewed, merged, deployed and verified are different states. The next owner accepts the exact commit/cutoff, remaining action and stop/rollback condition; until then the coordinator owns the open loop. Do not repeat permission questions already resolved within unchanged authority.
+- Cleanup requires fresh inactivity/worktree/PR checks, actual integration ancestry, expected-head recheck and existing recovery safeguards. Patch equivalence or an empty diff is not proof of merged history or permission to force-delete uncertain work. Preserve recoverable refs and dirty, untracked and ignored state; an unknown owner or changed head blocks cleanup.
+
+Agent-specific entry points must load this contract while retaining local rules. Updating a prompt/reference must not expand paid usage, workflow triggers, permissions, secrets, merge/deploy or financial authority. Check free RAM before substantial local checks; defer heavy work below 3 GB and do not disrupt running jobs or other agents.
